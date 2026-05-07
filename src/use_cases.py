@@ -1,7 +1,7 @@
 USE_CASES = ("gaming", "video", "aiml", "general")
 
 WEIGHTS = {
-    "gaming":  {"cpu": 0.20, "gpu": 0.45, "motherboard": 0.05,
+    "gaming":  {"cpu": 0.20, "gpu": 0.40, "motherboard": 0.05,
                 "ram": 0.10, "storage": 0.10, "psu": 0.07, "case": 0.03},
     "video":   {"cpu": 0.30, "gpu": 0.25, "motherboard": 0.05,
                 "ram": 0.20, "storage": 0.12, "psu": 0.05, "case": 0.03},
